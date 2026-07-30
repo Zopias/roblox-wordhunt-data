@@ -1,0 +1,29 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "wordCount": 2000
+    },
+    {
+      "code": "fi",
+      "name": "Finnish",
+      "wordCount": 2000
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "wordCount": 2000
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "wordCount": 2000
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "wordCount": 2000
+    }
+  ]
+}
